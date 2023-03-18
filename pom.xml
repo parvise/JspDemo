@@ -23,6 +23,6 @@
 		</dependency>
 	</dependencies>
 	<build>
-		<finalName>JspServletsMvnDemo</finalName>
+		<finalName>kalam</finalName>
 	</build>
 </project>
